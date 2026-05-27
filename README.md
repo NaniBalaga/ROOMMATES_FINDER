@@ -115,3 +115,5 @@ CREATE TABLE hostel_survey (
     room_number VARCHAR(10),
     FOREIGN KEY (register_number) REFERENCES students(register_number)
 );
+
+
