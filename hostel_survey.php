@@ -209,6 +209,7 @@ $all_blocks = $blocks_result->fetch_all(MYSQLI_ASSOC);
                     <i class="fas fa-share-alt" style="pointer-events: none;"></i>
                 </a>
 
+                
                 <!-- Edit Profile Icon -->
                 <a href="../profile.php"
                     style="color: #ffffff; text-decoration: none; font-size: 18px; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background-color: #1e1e1e; border: 1px solid rgba(255,255,255,0.2); transition: all 0.3s ease;">
