@@ -94,6 +94,7 @@ This tool allows students to:
 Run the following SQL commands:
 
 ```sql
+
 CREATE DATABASE hostel_finder;
 
 CREATE TABLE students (
