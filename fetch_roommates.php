@@ -3,7 +3,6 @@ session_start();
 if (!isset($_SESSION['register_number'])) {
     die("Unauthorized access");
 }
-
 $servername = "";
 $username = "";
 $password = "";
